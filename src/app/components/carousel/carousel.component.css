@@ -1,0 +1,9 @@
+img{
+    height: 80vh !important;
+}
+
+@media(min-width:425px){
+    img{
+        height: 87vh !important;
+    }
+}
